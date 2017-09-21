@@ -1,3 +1,4 @@
 /.idea/
+/build/
 /cmake-build-debug/
-*.iml
+/shape_predictor_68_face_landmarks.dat
