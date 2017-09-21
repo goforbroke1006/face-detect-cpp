@@ -1,1 +1,1 @@
-# face-detect-cpp
+# Face Detect C++
